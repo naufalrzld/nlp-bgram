@@ -1,0 +1,6 @@
+Nama	: Mochammad Naufal Rizaldi
+NIM	: 1301160334
+
+1. Buka dengan menggunakan Jupyter Notebook
+2. Run dari cell 1 sampai akhir
+3. Jika ingin merubah corpus, ubah nama corpus pada cell 3 kemudian run kembali dari cell 3 hingga cell terakhir
